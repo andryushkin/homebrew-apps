@@ -8,7 +8,7 @@ cask "editmd" do
   url "https://github.com/andryushkin/editmd/releases/download/v#{version}/EditMD-v#{version}.dmg"
   name "EditMD"
   desc "Markdown editor with Source, Visual, and Preview modes"
-  homepage "https://github.com/andryushkin/editmd"
+  homepage "https://dotmd.tools/editmd"
 
   depends_on macos: :sonoma
 
