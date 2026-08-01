@@ -2,8 +2,8 @@
 # every release; the DMG is the Developer ID signed, notarized, and stapled
 # build from scripts/dist.sh, attached to the matching GitHub Release.
 cask "editmd" do
-  version "0.47.14"
-  sha256 "2840e5f9e5c14e558eb4710a6dbea3917d0b2891be3fdc6967218b0764b9e65b"
+  version "0.47.15"
+  sha256 "3c0c7a0382ffe8e8b63894e2b468fb2e3b8240bcd6b2da15eb82c24e6a0dcaeb"
 
   url "https://github.com/andryushkin/editmd/releases/download/v#{version}/EditMD-v#{version}.dmg"
   name "EditMD"
